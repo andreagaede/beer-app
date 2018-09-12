@@ -1,0 +1,10 @@
+name: beer_analysis
+title:
+username:
+account: coffee-coding-beer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 433659
+bundleId: 1579057
+url: https://coffee-coding-beer.shinyapps.io/beer_analysis/
+when: 1536606372.83681
